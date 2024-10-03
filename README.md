@@ -8,3 +8,6 @@ Learned how to use APIs to write programs to automatically gather data wanted fo
 ## Technologies Used
 
 Python, Plotly
+
+## Lessons Learned
+From this project, I learned how to use Python's Requests package to pull information from websites. Learned that most APIs are rate limited and is something to consider when working with information from other websites. 
